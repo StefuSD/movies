@@ -1,0 +1,6 @@
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.jfif binary
+catalog.json text eol=lf
